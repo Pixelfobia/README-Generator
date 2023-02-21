@@ -21,7 +21,7 @@ A README.md file is the place where a project creator communicates with the futu
 ## Usage
 ###### [Back to Table of Contents](#Table-of-Contents)
 Answer the prompt questions: click enter to move to the next question.
-#### Demo gif ![image](assets/screenshot/Readme-Generator.webm)
+#### Demo gif ![Alt text](assets/Readme-Generator.gif)
 
 ## Contribution
 ###### [Back to Table of Contents](#Table-of-Contents)
